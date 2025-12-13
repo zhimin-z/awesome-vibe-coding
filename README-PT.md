@@ -79,6 +79,7 @@
 - [vibe-cli](https://github.com/Jinjos/vibe-cli) - Interface de linha de comando para fluxos de trabalho de vibe coding.
 - [langchain-code](https://github.com/zamalali/langchain-code) - Agente de codificação baseado em LangChain para desenvolvimento assistido por IA.
 - [kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Interface de linha de comando oficial do Kimi, um assistente de IA que ajuda com tarefas de codificação e fluxos de trabalho de desenvolvimento.
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - Plataforma de codificação agêntica aberta com arquitetura multi-agente para geração automática de código a partir de artigos de pesquisa e requisitos.
 
 ## Gerenciamento de Tarefas para Codificação com IA
 

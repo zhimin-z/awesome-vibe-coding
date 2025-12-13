@@ -66,6 +66,7 @@
 - [vibe-cli](https://github.com/Jinjos/vibe-cli) - 바이브 코딩 워크플로우를 위한 커맨드 라인 인터페이스.
 - [langchain-code](https://github.com/zamalali/langchain-code) - AI 지원 개발을 위한 LangChain 기반 코딩 에이전트.
 - [kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi의 공식 커맨드 라인 인터페이스로, 코딩 작업 및 개발 워크플로우를 지원하는 AI 어시스턴트.
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - 연구 논문 및 요구사항으로부터 자동으로 코드를 생성하는 멀티 에이전트 아키텍처를 갖춘 오픈 에이전트 코딩 플랫폼.
 
 ## AI 코딩 문서화
 - [CodeGuide](https://www.codeguide.dev/) - AI 코딩 프로젝트를 위한 상세 문서 생성 도구.

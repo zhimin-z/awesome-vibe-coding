@@ -92,6 +92,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 - [vibe-cli](https://github.com/Jinjos/vibe-cli) - An AI-powered CLI tool that enables collaborative coding sessions, code generation, and workflow automation directly from your terminal.
 - [langchain-code](https://github.com/zamalali/langchain-code) - LangChain-based coding agent for AI-assisted development.
 - [kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Official command-line interface for Kimi, an AI assistant that helps with coding tasks and development workflows.
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - Open agentic coding platform with multi-agent architecture for automated code generation from research papers and requirements.
 
 ## Task Management for AI Coding
 

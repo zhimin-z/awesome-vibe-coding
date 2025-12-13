@@ -79,6 +79,7 @@
 - [vibe-cli](https://github.com/Jinjos/vibe-cli) - バイブコーディングワークフロー用のコマンドラインインターフェース。
 - [langchain-code](https://github.com/zamalali/langchain-code) - AI支援開発のためのLangChainベースのコーディングエージェント。
 - [kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimiの公式コマンドラインインターフェースで、コーディングタスクと開発ワークフローを支援するAIアシスタント。
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - 研究論文や要件から自動的にコードを生成するマルチエージェントアーキテクチャを持つオープンなエージェントコーディングプラットフォーム。
 
 ## AIコーディングタスク管理
 
