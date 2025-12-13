@@ -64,6 +64,7 @@
 - [GitHub Copilot](https://github.com/features/copilot) - Uma IA projetada para ajudar a codificar mais rápido no Visual Studio Code. Oferece preenchimento de código, chats com os modelos de IA e um modo agente para codificação agêntica.
 
 ## Aplicativos Locais
+
 - [Dyad](https://www.dyad.sh/) - Construtor de aplicações de IA gratuito, local e de código aberto.
 
 ## Ferramentas de Linha de Comando

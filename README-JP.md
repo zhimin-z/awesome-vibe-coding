@@ -64,6 +64,7 @@
 - [GitHub Copilot](https://github.com/features/copilot) - Visual Studio Codeでより速くコーディングするのを支援するように設計されたAI。コード補完、AIモデルとのチャット、エージェンティックコーディング用のエージェントモードを提供
 
 ## ローカルアプリ
+
 - [Dyad](https://www.dyad.sh/) - 無料、ローカル、オープンソースのAIアプリビルダー
 
 ## コマンドラインツール
