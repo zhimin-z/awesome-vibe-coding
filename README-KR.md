@@ -90,7 +90,6 @@
 - [AGENTS.md](https://agents.md/) - 코딩 에이전트를 안내하기 위한 간단하고 개방적인 형식.
 - [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) - 바이브 코딩을 위한 프롬프트 템플릿.
 
-
 ## 뉴스 및 소셜미디어
 
 > 최신 항목이 위쪽에 나타나는 역순 정렬입니다.
