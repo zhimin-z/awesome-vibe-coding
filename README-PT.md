@@ -79,6 +79,11 @@
 - [vibe-cli](https://github.com/Jinjos/vibe-cli) - Interface de linha de comando para fluxos de trabalho de vibe coding.
 - [langchain-code](https://github.com/zamalali/langchain-code) - Agente de codificação baseado em LangChain para desenvolvimento assistido por IA.
 - [kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Interface de linha de comando oficial do Kimi, um assistente de IA que ajuda com tarefas de codificação e fluxos de trabalho de desenvolvimento.
+- [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) - SDK da Cloudflare para vibe coding.
+- [superagent-ai/vibekit](https://github.com/superagent-ai/vibekit) - Um kit de ferramentas para construir aplicações de vibe coding.
+- [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Ferramenta de vibe coding da Mistral AI.
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - Aprendizado profundo para análise e geração de código.
+- [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - Ferramenta e framework de vibe coding.
 
 ## Gerenciamento de Tarefas para Codificação com IA
 
@@ -88,6 +93,8 @@
 ## Documentação para Codificação com IA
 
 - [CodeGuide](https://www.codeguide.dev/) - Cria Documentação detalhada para seus Projetos de Codificação com IA.
+- [AGENTS.md](https://agents.md/) - Um formato simples e aberto para orientar agentes de codificação.
+- [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) - Um template de prompt para vibe coding.
 
 ## Notícias e Redes Sociais
 

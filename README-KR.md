@@ -66,9 +66,16 @@
 - [vibe-cli](https://github.com/Jinjos/vibe-cli) - 바이브 코딩 워크플로우를 위한 커맨드 라인 인터페이스.
 - [langchain-code](https://github.com/zamalali/langchain-code) - AI 지원 개발을 위한 LangChain 기반 코딩 에이전트.
 - [kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi의 공식 커맨드 라인 인터페이스로, 코딩 작업 및 개발 워크플로우를 지원하는 AI 어시스턴트.
+- [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) - Cloudflare의 바이브 코딩 SDK.
+- [superagent-ai/vibekit](https://github.com/superagent-ai/vibekit) - 바이브 코딩 애플리케이션을 구축하기 위한 툴킷.
+- [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) - Mistral AI의 바이브 코딩 도구.
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - 코드 분석 및 생성을 위한 딥러닝.
+- [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) - 바이브 코딩 도구 및 프레임워크.
 
 ## AI 코딩 문서화
 - [CodeGuide](https://www.codeguide.dev/) - AI 코딩 프로젝트를 위한 상세 문서 생성 도구.
+- [AGENTS.md](https://agents.md/) - 코딩 에이전트를 안내하기 위한 간단하고 개방적인 형식.
+- [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) - 바이브 코딩을 위한 프롬프트 템플릿.
 
 ## 뉴스 및 소셜미디어
 
